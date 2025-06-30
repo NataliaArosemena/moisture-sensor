@@ -1,1 +1,4 @@
-# moisture-sensor
+# SMART Moisture Sensor Log
+
+## Research Phase
+### Videos:
